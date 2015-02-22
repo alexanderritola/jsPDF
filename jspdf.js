@@ -54,6 +54,7 @@
  * @returns {jsPDF}
  * @name jsPDF
  */
+var saveAs = require('FileSaver.js/FileSaver').saveAs;
 var jsPDF = (function(global) {
 	'use strict';
 	var pdfVersion = '1.3',

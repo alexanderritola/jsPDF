@@ -83,7 +83,8 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "glob": "^4.3.5"
+    "glob": "^4.3.5",
+		"FileSaver.js": "cwbutler/FileSaver.js"
   },
   "devDependencies": {}
 }
